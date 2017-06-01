@@ -2,7 +2,7 @@
 import java.util.Scanner;
 
 /** @Create a class */
-public class CJS3A4_student_results {
+public class CJS3A3_student_results {
 	private static Scanner input;
 
 	public static void main(String[] args) {
